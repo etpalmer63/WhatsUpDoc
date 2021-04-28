@@ -7,6 +7,12 @@ My goal is collect and summarize as I learn more and formulate my ideas. Therefo
 sections. A working edge, we're my I keep my current thoughts and a more polished section where I apply 
 what I learned to explain my approach to documentation.
 
+## Books I'm Reading
+
+* Docs Like Code, by Anne Gentle
+* Thinking in Systems: A Primer, by Donella H. Meadows
+  * Perspective on challenges and solutions for current scientific software documentation.
+
 
 ## Bleeding Edge
 
