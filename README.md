@@ -10,6 +10,7 @@ what I learned to explain my approach to documentation. Right now eveything is t
 ## Books I'm Reading
 
 * Docs Like Code, by Anne Gentle
+  * Note: I started by skipping directly to the Tutorial section.
 * Thinking in Systems: A Primer, by Donella H. Meadows
   * For a perspective on challenges and solutions for current scientific software documentation.
 
