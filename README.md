@@ -21,3 +21,18 @@ what I learned to explain my approach to documentation. Right now eveything is t
 ## Bleeding Edge
 
 Develop the code to render this as a beautiful website.
+Contribute something everyday! 
+
+
+## Currently Underdevelopment
+
+Using jekyll to make a plain text to html website update system. 
+
+## TODO:
+
+Add links to example documentation.
+Summarize thoughts on some of their youtube tutorials.
+Add book.
+Continue to map-out the system. Focus on difference between User-Developer in general versus scientific software. For one, the average scienific user will likely interact with the code on a much more primative basis than a normal code user. So how does this affect the user vs. developer difference. 
+
+
