@@ -27,6 +27,9 @@ what I learned to explain my approach to documentation. Right now eveything is t
 
 [waLBerla](https://www.walberla.net)
 
+## Random Thoughts
+Could be useful to have a collection of projects completed using the code. Like other galleries with a short description for each one. 
+
 
 ## Bleeding Edge
 
