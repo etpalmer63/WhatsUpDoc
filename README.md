@@ -13,9 +13,19 @@ what I learned to explain my approach to documentation. Right now eveything is t
   * Note: I started by skipping directly to the Tutorial section.
 * Thinking in Systems: A Primer, by Donella H. Meadows
   * For a perspective on challenges and solutions for current scientific software documentation.
+* The Product is the Docs, by Chistopher Gales and the Splunk Documentation Team
+
+
+
 
 ## Useful Website
 [Write the Docs!](http://www.writethedocs.org)
+
+## Example Docs to Snoop
+
+[Clawpack](https://www.clawpack.org)
+
+[waLBerla](https://www.walberla.net)
 
 
 ## Bleeding Edge
