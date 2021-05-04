@@ -2,9 +2,19 @@
 //
 #include <iostream>
 
-int main(){
-    std::cout << "Hello world!\n";
-    return 0;
+
+
+
+// This function does nothing
+void do_nothing(){
+    std::cout << "I do nothing.\n";
 }
 
+
+
+int main(){
+    std::cout << "Hello world!\n";
+    do_nothing();
+    return 0;
+}
 
