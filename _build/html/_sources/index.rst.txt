@@ -36,10 +36,6 @@ Using reStructuredText and Sphinx to make this website!
 
 * Add links to example documentation.
 * Summarize thoughts on some their Youtube tutorials.
-* 
-.. raw:: html 
-
-   <strike>Add book.</strike>
 * User-Developer differences. 
 
 Indices and tables
