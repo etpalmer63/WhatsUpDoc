@@ -3,6 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+
+
 WhatsUpDoc's Documentation
 ======================================
 
@@ -22,6 +24,23 @@ what I learned to explain my approach to documentation. Right now eveything is t
    Useful Websites <UsefulWebsites>
    Example Docs to Snoop <ExampleDocsToSnoop>
    Currently Underdevelopment <Dev> 
+   Random Thoughts <RandomThoughts>
+
+
+==========================
+Currently Underdevelopment
+==========================
+Using reStructuredText and Sphinx to make this website!
+
+*TODO:*
+
+* Add links to example documentation.
+* Summarize thoughts on some their Youtube tutorials.
+* 
+.. raw:: html 
+
+   <strike>Add book.</strike>
+* User-Developer differences. 
 
 Indices and tables
 ==================

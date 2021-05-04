@@ -22,5 +22,5 @@ Books
 
    Docs Like Code <DocsLikeCode>
    Thinking in Systems <ThinkingInSystems>
-   The Product is the Docs <ProductIsTheDocs>
+   The Product is Docs <ProductIsDocs>
    Agile Documentation <AgileDocumentation>
