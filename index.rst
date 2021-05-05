@@ -39,6 +39,11 @@ Using reStructuredText and Sphinx to make this website!
 * User-Developer differences. 
 * Automated dates for last time code was updated and last time documentation was updated. Also, graphical representation? 
 
+
+*Ideas:*
+Gallery of projects using the code with a short description accompanying each example. This way people can search
+through others work to find examples, and people can promote their own work. 
+
 Indices and tables
 ==================
 
