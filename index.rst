@@ -37,6 +37,7 @@ Using reStructuredText and Sphinx to make this website!
 * Add links to example documentation.
 * Summarize thoughts on some their Youtube tutorials.
 * User-Developer differences. 
+* Automated dates for last time code was updated and last time documentation was updated. Also, graphical representation? 
 
 Indices and tables
 ==================
