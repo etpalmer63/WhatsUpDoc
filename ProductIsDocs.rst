@@ -28,3 +28,7 @@ Identify Users':
 #. problems they want to solve
 #. decisions they need to make
 #. things they want to build 
+
+*Audience Types versus Personas*
+
+A persona is a specific instance of an audience type.  
