@@ -16,5 +16,15 @@ Ideas: What are AMReX core principals? Why is the sell to scientists for why sho
 
 Documentation value, create and track consistent naming conventions. 
 
-.. image:: docu_process.png
+.. image:: doc_process.jpg
+   :height: 100px
+   
 
+**Audience**
+
+Identify Users':
+
+#. goals
+#. problems they want to solve
+#. decisions they need to make
+#. things they want to build 
