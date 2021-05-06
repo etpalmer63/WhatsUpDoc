@@ -13,7 +13,10 @@ SME - subject matter experts
 
 How to avoid always trailing? Ask people to write some documentation before they start work on a new feature? 
 
-Ideas: What are the software's core principals? What is the sell to users for why should they use the software and what principles they are adopting when they do. 
+Ideas: 
+
+* What are the software's core principals? What is the sell to users for why should they use the software and what principles they are adopting when they do. 
+* What is considered successful documentation? 
 
 
 Documentation value, create and track consistent naming conventions. 
