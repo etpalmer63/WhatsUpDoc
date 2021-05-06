@@ -1,6 +1,8 @@
 The Product is Docs
 ===================
 
+My general impression of the book so far is that it offers a lot of specific information on a vareity of useful topics. However, like the docs it talks about, it is not linear. 
+
 
 *comprehensive* vs. *relevant*  seems like an enlightening guiding principal for writing to different audiences. -> Where to put the needle for which audience?
 
@@ -11,7 +13,7 @@ SME - subject matter experts
 
 How to avoid always trailing? Ask people to write some documentation before they start work on a new feature? 
 
-Ideas: What are AMReX core principals? Why is the sell to scientists for why should they use AMReX and what principles they are adopting when they do. 
+Ideas: What are the software's core principals? What is the sell to users for why should they use the software and what principles they are adopting when they do. 
 
 
 Documentation value, create and track consistent naming conventions. 
@@ -32,3 +34,19 @@ Identify Users':
 *Audience Types versus Personas*
 
 A persona is a specific instance of an audience type.  
+
+**Customer Feedback**
+
+*Community*
+
+Github already allows users to have discussions and aid each other. 
+
+**Documentation Decisions**
+
+What is your documentation ethos? 
+In this case, I would say that contributors should write the documentation in a way that would be clear to their group leader. Technical and in-house jargon is OK. I think of it as my place to figure out how to relate this to the more general audience. Also a main consideration, is how much time and effort it would take to write for a different audience. 
+
+**Learning Objectives**
+
+
+
