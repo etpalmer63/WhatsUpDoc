@@ -11,7 +11,7 @@ Books
 
   * For a perspective on challenges and solutions for current scientific software documentation.
 
-* The Product is the Docs, by Chistopher Gales and the Splunk Documentation Team
+* The Product is the Docs, by Christopher Gales and the Splunk Documentation Team
 * Agile Documentation: A Pattern Guide to Producing Lightweight Documents for Software Projects, by
   Andreas Rüping
 

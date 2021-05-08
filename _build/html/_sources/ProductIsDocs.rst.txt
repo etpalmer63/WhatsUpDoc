@@ -1,12 +1,12 @@
 The Product is Docs
 ===================
 
-My general impression of the book so far is that it offers a lot of specific information on a vareity of useful topics. However, like the docs it talks about, it is not linear. 
+My general impression of the book so far is that it offers a lot of specific information on a variety of useful topics. However, like the docs it talks about, it is not linear. 
 
 
 *comprehensive* vs. *relevant*  seems like an enlightening guiding principal for writing to different audiences. -> Where to put the needle for which audience?
 
-regular customer feedback loop. How to generate this? What about 'is this page useful? commment here.'
+regular customer feedback loop. How to generate this? What about 'is this page useful? comment here.'
 
 waterfall - linear approach to project management. (linear is a much better name)
 SME - subject matter experts 
@@ -42,7 +42,7 @@ A persona is a specific instance of an audience type.
 
 *Community*
 
-Github already allows users to have discussions and aid each other. 
+GitHub already allows users to have discussions and aid each other. 
 
 **Documentation Decisions**
 

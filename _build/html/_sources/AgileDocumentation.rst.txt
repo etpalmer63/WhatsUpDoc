@@ -12,10 +12,10 @@ themselves.
 
 
 Documentation aids communication, enhances knowledge transfer, preserves
-historical information and fulfils government and legal requirements. 
+historical information and fulfills government and legal requirements. 
 
 
-Document should fulfil a purpose for its intended readers. 
+Document should fulfill a purpose for its intended readers. 
 
 
 Book is mostly presented in a problem, forces, solution, discussion format.

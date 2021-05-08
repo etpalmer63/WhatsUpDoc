@@ -2,3 +2,13 @@ Random Thoughts
 ===============
 
 What goes here?
+
+
+
+For spell checking documents, the command line tool aspell works well. Use:
+
+.. code-block:: 
+
+   aspell -c <filename>
+
+
