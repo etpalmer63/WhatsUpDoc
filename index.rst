@@ -8,10 +8,16 @@
 WhatsUpDoc's Documentation
 ======================================
 
-.. image:: time_badge.svg
+.. |code| image:: code_time_badge.svg
+
+.. |doc| image:: doc_time_badge.svg
+
+| |code|
+| |doc|
 
 
-Last updated: |today|
+
+
 
 **Prologue**
 

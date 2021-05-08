@@ -59,26 +59,35 @@ html_static_path = ['_static']
 
 #time date format
 from time import gmtime, strftime, localtime
-today = strftime("%a, %d %b %Y %H:%M:%S", localtime())
-#today = strftime("%a, %d %b %Y %H:%M:%S +0000", gmtime())
+
+date_fmt = '%b %d %Y %H:%M:%S %z'
+#today = strftime("%a, %d %b %Y %H:%M:%S", localtime())
+#today = strftime("%b %d %Y %H:%M:%S %z", localtime())
+today = strftime(date_fmt, localtime())
 
 #make time badge
 from pybadges import badge
-doc_time_badge = badge(left_text='Doc Change:', right_text=today, left_color='blue')
+doc_time_badge = badge(left_text='Doc Change:', right_text=today, left_color='blue', right_color='black')
 #write svg out as file
 with open('doc_time_badge.svg', 'w') as f:
     f.write(doc_time_badge)
 f.close()
 
 
+#import the modules to find the most recent commit of source code
 import importlib.util
 spec = importlib.util.spec_from_file_location("git_file_last_changed_date", "/home/erik/FastStorage/WhatsUpDoc/git_file_last_changed_date.py")
 codechangedate = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(codechangedate)
 
 
+#filetypes to check
+file_types = ['cpp', 'c', 'py', 'sh']
 
-code_time_badge = badge(left_text='Code Change:', right_text=codechangedate.find_last_change(), left_color='green')
+code_time_badge = badge(left_text='Code Change:', 
+                        right_text=codechangedate.find_last_change(file_types,date_fmt), 
+                        left_color='green',
+                        right_color='black')
 with open('code_time_badge.svg', 'w') as f:
     f.write(code_time_badge)
 f.close()
