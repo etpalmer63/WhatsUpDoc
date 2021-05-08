@@ -23,7 +23,7 @@ WhatsUpDoc's Documentation
 
 Here I embark on a project to document my thoughts and learning about documentation of scientific software. 
 My goal is to collect and summarize as I learn and formulate ideas. Therefore this doc will have two 
-sections. A working edge, we're my I keep my current thoughts and a more polished section where I apply 
+sections. A working edge, where I keep my current thoughts and a more polished section, where I apply 
 what I learned to explain my approach to documentation. Right now everything is the working edge! 
 
 
