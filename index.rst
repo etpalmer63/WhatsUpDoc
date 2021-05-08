@@ -8,6 +8,11 @@
 WhatsUpDoc's Documentation
 ======================================
 
+.. image:: time_badge.svg
+
+
+Last updated: |today|
+
 **Prologue**
 
 Here I embark on a project to document my thoughts and learning about documentation of scientific software. 

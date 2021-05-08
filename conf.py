@@ -54,3 +54,32 @@ html_theme = 'sphinx_rtd_theme'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+
+
+
+#time date format
+from time import gmtime, strftime, localtime
+today = strftime("%a, %d %b %Y %H:%M:%S", localtime())
+#today = strftime("%a, %d %b %Y %H:%M:%S +0000", gmtime())
+
+#make time badge
+from pybadges import badge
+doc_time_badge = badge(left_text='Doc Change:', right_text=today, left_color='blue')
+#write svg out as file
+with open('doc_time_badge.svg', 'w') as f:
+    f.write(doc_time_badge)
+f.close()
+
+
+import importlib.util
+spec = importlib.util.spec_from_file_location("git_file_last_changed_date", "/home/erik/FastStorage/WhatsUpDoc/git_file_last_changed_date.py")
+codechangedate = importlib.util.module_from_spec(spec)
+spec.loader.exec_module(codechangedate)
+
+
+
+code_time_badge = badge(left_text='Code Change:', right_text=codechangedate.find_last_change(), left_color='green')
+with open('code_time_badge.svg', 'w') as f:
+    f.write(code_time_badge)
+f.close()
+
