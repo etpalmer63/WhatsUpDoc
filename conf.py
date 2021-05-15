@@ -91,4 +91,3 @@ code_time_badge = badge(left_text='Code Change:',
 with open('code_time_badge.svg', 'w') as f:
     f.write(code_time_badge)
 f.close()
-
