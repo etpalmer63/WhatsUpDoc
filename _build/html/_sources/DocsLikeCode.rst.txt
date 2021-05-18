@@ -4,10 +4,88 @@ Docs Like Code
 
 Note: I started by skipping directly to the tutorial section. 
 
-Goals of docs:
+Goals of treating docs like code:
 
-1. Promote collaboration.
-2. Get important contributions on esoteric topics --The small but mighty contribution. 
-3. Track issues with documentation. 
-#. and more...
+1. `Promote collaboration`_ 
+    Keep docs and code together to encourage similar treatment and importance,
+2. `Get long-tail contributions`_, important contributions on esoteric topics --The small but mighty contribution. 
+    Split docs into smaller parts to encourage contributions.
+3. `Track issues with documentation`_
+    Using bug-fix tracking, allows users to judge whether the fix is an improvement.
+4. `Get better reviews`_
+    Not sure about this one yet.   
+5. `Make beautiful docs`_
+    Create modern looking docs. (Sphinx is already up!)
+6. `Use developer tools and workflows`_
+    Apply dev tools and techniques, such as automated builds, to let you and
+    your team focus on content. 
+7. `Get value from cost-effective tools`_
+    Most tools are free. 
+
+-------------
+
+.. _`Promote collaboration`: 
+   
+**Promote Collaboration**
+
+Writing with and for your audience, you will get to know them better. 
+
+
+------------
+
+.. _`Get long-tail contributions`:
+
+**Get Long-Tail Contribtions**
+
+By spliting up documentation into many small tasks and plain text, 
+the barrier to contribution is lowered. This encourages those who 
+may have put a lot of effort into figuring out a specific topic
+to contribute to the documentation, such as specialist with 
+technical details. These contributions likely 
+have higher value because main/general topics and usually already covered
+well. 
+
+
+------------
+
+.. _`Track issues with documentation`:
+
+**Track Issues with Documenation**
+
+By using a bug--fix approach to improving documentation, errors or
+less useful documentation is identified for improvements that can be
+directly compared. This also allows you to show incremental improvements 
+over time. Improvements could be fixing errors and typos, or even 
+feature requests for the docs themselves. 
+
+
+--------------
+
+.. _`Get better reviews`:
+
+**Get Better Reviews**
+
+In comparison to the single pdf sign-off, treating docs like code
+allows reviewers to see and easily compare changes. The incremental
+improvements approach also means more smaller reviews. 
+
+---------------
+
+.. _`Make beautiful docs`:
+
+**Make Beautiful Docs**
+
+
+--------------
+
+.. _`Use developer tools and workflows`:
+
+**Use Developer Tools and Workflows**
+
+--------------
+
+.. _`Get value from cost-effective tools`:
+
+**Get Value From Cost-Effective Tools**
+
 
