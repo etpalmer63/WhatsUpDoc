@@ -37,6 +37,9 @@ jobs:
 
       - name: bulid html
         run: |
+          cd $GITHUB_WORKSPACE
+          pwd
+          ls -ltr
           make html
 
 
