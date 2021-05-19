@@ -48,13 +48,22 @@ what I learned to explain my approach to documentation. Right now everything is 
 ==========================
 Currently Underdevelopment
 ==========================
-Using reStructuredText and Sphinx to make this website!
 
-*TODO:*
 
-* Add links to example documentation.
+*TODO: CODE:*
+
+* Feedback link with autofill, GitHub API call? 
+
+
+*TODO: CONTENT:*
+
 * Summarize thoughts on some their YouTube tutorials.
 * User-Developer differences. 
+
+
+*RECENTLY DONE:*
+
+* Using reStructuredText and Sphinx to make this website!
 
 
 *Ideas:*

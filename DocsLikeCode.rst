@@ -2,6 +2,22 @@ Docs Like Code
 ==============
 
 
+**Summary Impression**
+
+*Docs Like Code*, is aimed at moving people from the single PDF publication
+to a GitHub-webpage continuous integration/development system with 
+incremental improvements and tracking. There is less focus on content and
+specifics about what should be present in the docs or webpages themselves. 
+In a scenario where one is coming from a coding background with an 
+already established dev-style workflow for managing documentation, the
+book is trying to convince the already initiated.  I would like to see 
+more information on defining the audience, a style
+guide or analysis of essential aspects of the webpage presentation. 
+
+
+
+
+
 Note: I started by skipping directly to the tutorial section. 
 
 Goals of treating docs like code:
@@ -37,7 +53,7 @@ Writing with and for your audience, you will get to know them better.
 
 **Get Long-Tail Contribtions**
 
-By spliting up documentation into many small tasks and plain text, 
+By splitting up documentation into many small tasks and plain text, 
 the barrier to contribution is lowered. This encourages those who 
 may have put a lot of effort into figuring out a specific topic
 to contribute to the documentation, such as specialist with 
@@ -69,7 +85,7 @@ In comparison to the single pdf sign-off, treating docs like code
 allows reviewers to see and easily compare changes. The incremental
 improvements approach also means more smaller reviews. 
 
-It turns out Github is great for incremental improvement to lots of
+It turns out GitHub is great for incremental improvement to lots of
 things!
 
 ---------------

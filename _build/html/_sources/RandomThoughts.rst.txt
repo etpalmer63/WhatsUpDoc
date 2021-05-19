@@ -52,6 +52,14 @@ be a chat between two people, some may be chats between multiple people.
 Also, forwarded and direct emails would need to be included. 
 
 
+Feedback:
+
+Encourage people to use GitHub's bug tracker for question, 
+feedback and improvements. This way questions can be tracked and
+documentation can be tailored.
+
+
+
 
 
 
