@@ -76,7 +76,7 @@ f.close()
 
 #import the modules to find the most recent commit of source code
 import importlib.util
-spec = importlib.util.spec_from_file_location("git_file_last_changed_date", "/home/erik/FastStorage/WhatsUpDoc/git_file_last_changed_date.py")
+spec = importlib.util.spec_from_file_location("git_file_last_changed_date", "./git_file_last_changed_date.py")
 codechangedate = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(codechangedate)
 

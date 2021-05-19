@@ -69,11 +69,18 @@ In comparison to the single pdf sign-off, treating docs like code
 allows reviewers to see and easily compare changes. The incremental
 improvements approach also means more smaller reviews. 
 
+It turns out Github is great for incremental improvement to lots of
+things!
+
 ---------------
 
 .. _`Make beautiful docs`:
 
 **Make Beautiful Docs**
+
+Great doc themes are clean, useful and helpful in organizing the 
+docs. The Read the Docs theme is often referred to as a 
+"gold standard." 
 
 
 --------------
@@ -82,10 +89,17 @@ improvements approach also means more smaller reviews.
 
 **Use Developer Tools and Workflows**
 
+Automate builds, run simple tests to ensure quality. Continuous 
+buiding with tests can ensure docs are published correctly
+so that contributors can focus on content. 
+
+Speed matters and docs must keep up.
+
 --------------
 
 .. _`Get value from cost-effective tools`:
 
 **Get Value From Cost-Effective Tools**
 
-
+Github, vim, python, Sphinx, these things are all free. Html
+hosting can be done cost effectively.
