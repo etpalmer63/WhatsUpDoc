@@ -33,7 +33,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -U sphinx pybadges
+          pip install -U sphinx pybadges sphinx_rtd_theme
 
       - name: bulid html
         run: |
