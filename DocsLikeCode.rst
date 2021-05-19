@@ -90,10 +90,12 @@ docs. The Read the Docs theme is often referred to as a
 **Use Developer Tools and Workflows**
 
 Automate builds, run simple tests to ensure quality. Continuous 
-buiding with tests can ensure docs are published correctly
+building with tests can ensure docs are published correctly
 so that contributors can focus on content. 
 
 Speed matters and docs must keep up.
+
+
 
 --------------
 
@@ -101,5 +103,33 @@ Speed matters and docs must keep up.
 
 **Get Value From Cost-Effective Tools**
 
-Github, vim, python, Sphinx, these things are all free. Html
+GitHub, vim, python, Sphinx, these things are all free. Html
 hosting can be done cost effectively.
+
+-------------
+
+
+Workflows
+---------
+
+Docs are in the code repo and are published together with code updates.
+|:arrow_right:| use dev workflow.
+
+How will you publish? i.e. When to :code:`make html`?
+
+Local previews seem the most convenient. 
+
+Content
+-------
+
+How will you make it easy and efficient for contributors to author content. 
+In my case, I believe nothing beats a good text editor. Also considering the
+audience, the closer to the development environment the better. 
+
+Automate Builds
+---------------
+
+For docs, continuous integration and development means docs are tested, merged 
+and deployed with each patch. 
+
+

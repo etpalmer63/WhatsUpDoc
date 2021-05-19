@@ -87,7 +87,12 @@
               <p class="caption"><span class="caption-text">Contents:</span></p>
 <ul class="current">
 <li class="toctree-l1 current"><a class="reference internal" href="Books.html">Books</a><ul class="current">
-<li class="toctree-l2 current"><a class="current reference internal" href="#">Docs Like Code</a></li>
+<li class="toctree-l2 current"><a class="current reference internal" href="#">Docs Like Code</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#workflows">Workflows</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#content">Content</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#automate-builds">Automate Builds</a></li>
+</ul>
+</li>
 <li class="toctree-l2"><a class="reference internal" href="ThinkingInSystems.html">Thinking in Systems</a></li>
 <li class="toctree-l2"><a class="reference internal" href="ProductIsDocs.html">The Product is Docs</a></li>
 <li class="toctree-l2"><a class="reference internal" href="AgileDocumentation.html">Agile Documentation</a></li>
@@ -242,13 +247,32 @@ docs. The Read the Docs theme is often referred to as a
 <hr class="docutils" />
 <p id="use-developer-tools-and-workflows"><strong>Use Developer Tools and Workflows</strong></p>
 <p>Automate builds, run simple tests to ensure quality. Continuous
-buiding with tests can ensure docs are published correctly
+building with tests can ensure docs are published correctly
 so that contributors can focus on content.</p>
 <p>Speed matters and docs must keep up.</p>
 <hr class="docutils" />
 <p id="get-value-from-cost-effective-tools"><strong>Get Value From Cost-Effective Tools</strong></p>
-<p>Github, vim, python, Sphinx, these things are all free. Html
+<p>GitHub, vim, python, Sphinx, these things are all free. Html
 hosting can be done cost effectively.</p>
+<hr class="docutils" />
+<div class="section" id="workflows">
+<h2>Workflows<a class="headerlink" href="#workflows" title="Permalink to this headline">¶</a></h2>
+<p>Docs are in the code repo and are published together with code updates.
+➡️ use dev workflow.</p>
+<p>How will you publish? i.e. When to <code class="code docutils literal notranslate"><span class="pre">make</span> <span class="pre">html</span></code>?</p>
+<p>Local previews seem the most convenient.</p>
+</div>
+<div class="section" id="content">
+<h2>Content<a class="headerlink" href="#content" title="Permalink to this headline">¶</a></h2>
+<p>How will you make it easy and efficient for contributors to author content.
+In my case, I believe nothing beats a good text editor. Also considering the
+audience, the closer to the development environment the better.</p>
+</div>
+<div class="section" id="automate-builds">
+<h2>Automate Builds<a class="headerlink" href="#automate-builds" title="Permalink to this headline">¶</a></h2>
+<p>For docs, continuous integration and development means docs are tested, merged
+and deployed with each patch.</p>
+</div>
 </div>
 
 

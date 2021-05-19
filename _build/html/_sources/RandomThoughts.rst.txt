@@ -9,11 +9,16 @@ What goes here?
 Spellcheck
 ----------
 
-For spellchecking documents, the command line tool aspell works well. Use:
+For spellchecking documents, the command line tool Aspell works well. Use:
 
 .. code-block:: 
 
    aspell -c <filename>
+
+Only one file name can be specified at a time. Therefore, a bash script
+will be needed to loop through the files. 
+
+It's also possible to add your own dictionary, see man aspell. 
 
 
 Robot Proofreader
@@ -59,13 +64,13 @@ To learn more about Github's automated testing, new features are coming:
 * code compile test 
 * auto html build
 
-|:+1:| Recently added Github workflows to test build upon push to main. 
+|:+1:| Recently added GitHub workflows to test build upon push to main. 
 
 
 Things Each Page Should Include
 -------------------------------
 
-A list of the most relavant files which are covered by the documentation.
+A list of the most relevant files which are covered by the documentation.
 A date when that documentation was last updated.
 Feedback: A Thumbs Up/Down, Comment thing. -- What's the easiest way to 
 do this?
