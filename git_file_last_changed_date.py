@@ -36,7 +36,7 @@ def find_last_change(file_types,date_fmt):
     
     for n in file_date_list:
         #print(n.join(" ")
-        print(sep.join(n))
+        #print(sep.join(n))
         #T1 = datetime.strptime(sep.join(n),"%b %d %H:%M:%S %Y %z") 
         #print(T1)
         time1 = datetime.strptime(sep.join(n), date_fmt_shell)
