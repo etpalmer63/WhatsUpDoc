@@ -8,6 +8,13 @@
 WhatsUpDoc's Documentation
 ======================================
 
+
+Find this project on Github_
+
+.. _Github : https://github.com/etpalmer63/WhatsUpDoc
+ 
+
+
 .. |code| image:: code_time_badge.svg
 
 .. |doc| image:: doc_time_badge.svg
@@ -59,7 +66,13 @@ Auto-glossary for in-house terms. Special terms are developed in-house for ease 
 
 Audience definitions should include our own development team, and users as technically literate but unfamiliar. Audience definitions? 
 
-What about spell cehck?
+
+
+
+
+
+
+
 
 Indices and tables
 ==================

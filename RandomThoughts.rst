@@ -1,3 +1,5 @@
+.. include:: <isonum.txt>
+
 Random Thoughts
 ===============
 
@@ -57,6 +59,7 @@ To learn more about Github's automated testing, new features are coming:
 * code compile test 
 * auto html build
 
+|:+1:| Recently added Github workflows to test build upon push to main. 
 
 
 Things Each Page Should Include
@@ -68,11 +71,14 @@ Feedback: A Thumbs Up/Down, Comment thing. -- What's the easiest way to
 do this?
 
 
+*Feedback* |rarr|  Methods for automatically tracking? Are page views enough. Would it 
+be helpful to know where people start. Or is number of views enough. 
 
 
 
+Feedback_
 
-
+.. _Feedback: https://github.com/etpalmer63/WhatsUpDoc/issues/new
 
 
 
