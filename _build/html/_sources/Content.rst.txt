@@ -28,5 +28,9 @@ be a chat between two people, some may be chats between multiple people.
 Also, forwarded and direct emails would need to be included. 
 
 
+---------------
 
+**Long-Tail Contributions**
+
+I imagine this will be the most valuable content. 
 
