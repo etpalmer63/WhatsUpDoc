@@ -10,8 +10,8 @@ incremental improvements and tracking. There is less focus on content and
 specifics about what should be present in the docs or webpages themselves. 
 In a scenario where one is coming from a coding background with an 
 already established dev-style workflow for managing documentation, the
-book is trying to convince the already initiated.  I would like to see 
-more information on defining the audience, a style
+book is trying to convince the already initiated. At this point, 
+I need more information on defining the audience, a style
 guide or analysis of essential aspects of the webpage presentation. 
 
 

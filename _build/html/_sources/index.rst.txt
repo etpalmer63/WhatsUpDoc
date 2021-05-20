@@ -41,6 +41,8 @@ what I learned to explain my approach to documentation. Right now everything is 
    Books <Books>
    Useful Websites <UsefulWebsites>
    Example Docs to Snoop <ExampleDocsToSnoop>
+   Content <Content>
+   Feedback <Feedback>
    Currently Underdevelopment <Dev> 
    Random Thoughts <RandomThoughts>
 

@@ -29,38 +29,6 @@ it had a more accessible on/off button.
 
 
 
-Content and Feedback
---------------------
-
-Addressing questions:
-
-1. How to learn the information I need without taking the time of 
-   engineers who write the code?
-2. How to generate feedback from users without taking their time
-   and effort? 
-
-
-Collect information from online discussion forum and chats. Develop
-a system of categorizing this information (sounds like an ML problem!).
-Use these categories to identify areas of the documentation that need
-additional attention. 
-
-What's the best way to do this? 
-
-Would need to save a collection of cut and pasted text files. Some will
-be a chat between two people, some may be chats between multiple people. 
-Also, forwarded and direct emails would need to be included. 
-
-
-Feedback:
-
-Encourage people to use GitHub's bug tracker for question, 
-feedback and improvements. This way questions can be tracked and
-documentation can be tailored.
-
-
-
-
 
 
 Code Testing For Docs
@@ -89,9 +57,14 @@ be helpful to know where people start. Or is number of views enough.
 
 
 
+.. .. |PageTitle| replace:: Random Thoughts
+
+..  .. |SubjectLine| replace:: Subject line matter here
+
+
 Feedback_
 
-.. _Feedback: https://github.com/etpalmer63/WhatsUpDoc/issues/new
+.. _Feedback: https://github.com/etpalmer63/WhatsUpDoc/issues/new?title=Page:\ Random\ Thoughts&body=Auto-created\ subject\ line\ here
 
 
 

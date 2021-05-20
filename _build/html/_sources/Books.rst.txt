@@ -24,3 +24,4 @@ Books
    Thinking in Systems <ThinkingInSystems>
    The Product is Docs <ProductIsDocs>
    Agile Documentation <AgileDocumentation>
+   Modern Technical Writing <ModernTechnicalWriting>
