@@ -43,6 +43,9 @@ what I learned to explain my approach to documentation. Right now everything is 
    Example Docs to Snoop <ExampleDocsToSnoop>
    Content <Content>
    Feedback <Feedback>
+   Ideas <Ideas>
+   Code <Code>
+   Automation <Automation>
    Currently Underdevelopment <Dev> 
    Random Thoughts <RandomThoughts>
 
