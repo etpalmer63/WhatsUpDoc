@@ -24,5 +24,22 @@ Recently Done!
 
 - Using reStructuredText and Sphinx to make this website!
 
+--------------
+
+Look thumbs! For quick feedback on pages include this on 
+footer for each page. 
+
+.. raw:: html
+
+   <button type="button"
+   onclick="document.getElementById('demo1').innerHTML = Date()">
+   &#128077;</button>
+   <button type="button"
+   onclick="document.getElementById('demo2').innerHTML = Date()">
+   &#128078;</button>
+   <p id="demo1"></p>
+   <p id="demo2"></p>
+
+Right now this only shows the date. 
 
 

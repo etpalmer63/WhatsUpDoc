@@ -48,7 +48,19 @@ To create a GitHub feedback link, use the following code:
 
 ---------------
 
-Note: There are questions on StackOverflow about AMReX, see `here <https://stackoverflow.com/search?q=Amrex>`_. 
+Note: There are questions on StackOverflow about AMReX, 
+see `here <https://stackoverflow.com/search?q=Amrex>`_. 
+
+---------------
 
 
+GitHub provides insights into repository traffic. 
 
+See `Github Traffic <https://github.com/etpalmer63/WhatsUpDoc/graphs/traffic>`_.
+
+---------------
+
+Matomo can track vistors' paths through the websitei with its
+user flow visualization tool. Requires set-up on server. 
+
+See `Matomo <https://matomo.org>`_.
