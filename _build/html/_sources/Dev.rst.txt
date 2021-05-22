@@ -32,7 +32,7 @@ footer for each page.
 .. raw:: html
 
    <button type="button"
-   onclick="document.getElementById('demo1').innerHTML = Like!">
+   onclick="document.getElementById('demo1').innerHTML = Date()">
    &#128077;</button>
    <button type="button"
    onclick="document.getElementById('demo2').innerHTML = Date()">
@@ -40,6 +40,6 @@ footer for each page.
    <p id="demo1"></p>
    <p id="demo2"></p>
 
-Right now
+Right now this only shows the date. 
 
 

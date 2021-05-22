@@ -34,3 +34,22 @@ Also, forwarded and direct emails would need to be included.
 
 I imagine this will be the most valuable content. 
 
+----------------
+
+Write the docs has great piece on `General principals for content
+<https://www.writethedocs.org/guide/writing/docs-principles/#in-general-documentation-should-be>`_.
+
+
+----------------
+
+Typical new user map. What to do first, second, third, etc. 
+
+For example:
+
+1. Downloading and environment set-up. 
+2. Building.
+3. HelloWorld
+4. Heat Equation. 
+5. Pick one of the following
+
+Also break down estimated time for figuring it out.
