@@ -60,7 +60,7 @@ See `Github Traffic <https://github.com/etpalmer63/WhatsUpDoc/graphs/traffic>`_.
 
 ---------------
 
-Matomo can track vistors' paths through the websitei with its
+Matomo can track visitors' paths through the website with its
 user flow visualization tool. Requires set-up on server. 
 
 See `Matomo <https://matomo.org>`_.
