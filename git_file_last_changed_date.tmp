@@ -8,7 +8,7 @@ Fri May 21 23:53:04 2021 -0400 Content.rst
 Fri May 21 22:33:36 2021 -0400 Dev.rst
 Thu May 20 11:00:18 2021 -0400 DocsLikeCode.rst
 Mon May 3 23:40:54 2021 -0400 ExampleDocsToSnoop.rst
-Fri May 21 22:33:36 2021 -0400 Feedback.rst
+Mon May 24 10:46:43 2021 -0400 Feedback.rst
 Thu May 20 11:42:44 2021 -0400 Ideas.rst
 Tue Apr 27 22:10:34 2021 -0400 LICENSE
 Tue May 18 19:32:51 2021 -0400 Makefile
@@ -28,7 +28,7 @@ Fri May 21 23:53:04 2021 -0400 _build/doctrees/Content.doctree
 Fri May 21 23:53:04 2021 -0400 _build/doctrees/Dev.doctree
 Thu May 20 11:00:18 2021 -0400 _build/doctrees/DocsLikeCode.doctree
 Mon May 3 23:40:54 2021 -0400 _build/doctrees/ExampleDocsToSnoop.doctree
-Fri May 21 22:33:36 2021 -0400 _build/doctrees/Feedback.doctree
+Mon May 24 10:46:43 2021 -0400 _build/doctrees/Feedback.doctree
 Thu May 20 11:42:44 2021 -0400 _build/doctrees/Ideas.doctree
 Thu May 20 11:00:18 2021 -0400 _build/doctrees/ModernTechnicalWriting.doctree
 Fri May 7 23:10:29 2021 -0400 _build/doctrees/ProductIsDocs.doctree
@@ -36,7 +36,7 @@ Mon May 3 22:54:29 2021 -0400 _build/doctrees/ProductIsTheDocs.doctree
 Thu May 20 11:00:18 2021 -0400 _build/doctrees/RandomThoughts.doctree
 Tue May 18 13:45:52 2021 -0400 _build/doctrees/ThinkingInSystems.doctree
 Mon May 3 22:54:29 2021 -0400 _build/doctrees/UsefulWebsites.doctree
-Fri May 21 23:53:04 2021 -0400 _build/doctrees/environment.pickle
+Mon May 24 10:46:43 2021 -0400 _build/doctrees/environment.pickle
 Mon May 3 22:54:29 2021 -0400 _build/doctrees/firstpage.doctree
 Thu May 20 11:42:44 2021 -0400 _build/doctrees/index.doctree
 Mon May 3 22:54:29 2021 -0400 _build/html/.buildinfo
@@ -48,7 +48,7 @@ Fri May 21 23:53:04 2021 -0400 _build/html/Content.html
 Fri May 21 23:53:04 2021 -0400 _build/html/Dev.html
 Thu May 20 11:42:44 2021 -0400 _build/html/DocsLikeCode.html
 Thu May 20 11:42:44 2021 -0400 _build/html/ExampleDocsToSnoop.html
-Fri May 21 22:33:36 2021 -0400 _build/html/Feedback.html
+Mon May 24 10:46:43 2021 -0400 _build/html/Feedback.html
 Thu May 20 11:42:44 2021 -0400 _build/html/Ideas.html
 Thu May 20 11:42:44 2021 -0400 _build/html/ModernTechnicalWriting.html
 Thu May 20 11:42:44 2021 -0400 _build/html/ProductIsDocs.html
@@ -58,7 +58,7 @@ Thu May 20 11:42:44 2021 -0400 _build/html/ThinkingInSystems.html
 Thu May 20 11:42:44 2021 -0400 _build/html/UsefulWebsites.html
 Wed May 19 16:19:46 2021 -0400 _build/html/_images/code_time_badge.svg
 Fri May 7 22:27:19 2021 -0400 _build/html/_images/doc_process.jpg
-Fri May 21 23:53:04 2021 -0400 _build/html/_images/doc_time_badge.svg
+Mon May 24 10:46:43 2021 -0400 _build/html/_images/doc_time_badge.svg
 Fri May 7 22:27:19 2021 -0400 _build/html/_images/time_badge.svg
 Fri May 7 23:10:29 2021 -0400 _build/html/_sources/AgileDocumentation.rst.txt
 Thu May 20 11:42:44 2021 -0400 _build/html/_sources/Automation.rst.txt
@@ -68,7 +68,7 @@ Fri May 21 23:53:04 2021 -0400 _build/html/_sources/Content.rst.txt
 Fri May 21 23:53:04 2021 -0400 _build/html/_sources/Dev.rst.txt
 Thu May 20 11:00:18 2021 -0400 _build/html/_sources/DocsLikeCode.rst.txt
 Mon May 3 23:40:54 2021 -0400 _build/html/_sources/ExampleDocsToSnoop.rst.txt
-Fri May 21 22:33:36 2021 -0400 _build/html/_sources/Feedback.rst.txt
+Mon May 24 10:46:43 2021 -0400 _build/html/_sources/Feedback.rst.txt
 Thu May 20 11:42:44 2021 -0400 _build/html/_sources/Ideas.rst.txt
 Thu May 20 11:00:18 2021 -0400 _build/html/_sources/ModernTechnicalWriting.rst.txt
 Fri May 7 23:10:29 2021 -0400 _build/html/_sources/ProductIsDocs.rst.txt
@@ -154,14 +154,14 @@ Thu May 20 11:42:44 2021 -0400 _build/html/genindex.html
 Thu May 20 11:42:44 2021 -0400 _build/html/index.html
 Thu May 20 11:42:44 2021 -0400 _build/html/objects.inv
 Thu May 20 11:42:44 2021 -0400 _build/html/search.html
-Fri May 21 23:53:04 2021 -0400 _build/html/searchindex.js
+Mon May 24 10:46:43 2021 -0400 _build/html/searchindex.js
 Wed May 19 16:19:46 2021 -0400 code_time_badge.svg
 Wed May 19 11:56:26 2021 -0400 conf.py
 Thu May 6 10:01:59 2021 -0400 doc_process.jpg
-Fri May 21 23:53:04 2021 -0400 doc_time_badge.svg
+Mon May 24 10:46:43 2021 -0400 doc_time_badge.svg
 Tue May 18 20:51:17 2021 -0400 git_file_last_changed_date.py
 Wed May 19 11:56:26 2021 -0400 git_file_last_changed_date.sh
-Fri May 21 23:53:04 2021 -0400 git_file_last_changed_date.tmp
+Mon May 24 10:46:43 2021 -0400 git_file_last_changed_date.tmp
 Thu May 20 11:42:44 2021 -0400 index.rst
 Mon May 3 22:12:03 2021 -0400 make.bat
 Fri May 7 22:27:19 2021 -0400 time_badge.svg
