@@ -16,3 +16,10 @@ auto-glossary for these terms would help incoming audience.
 
 Audience definitions should include our own development team, and users as technically literate but unfamiliar. Audience definitions? 
 
+---------
+
+Including links for contact and submitting bugs and questions should provide 
+more useful page analytics.
+
+
+
