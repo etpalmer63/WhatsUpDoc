@@ -25,3 +25,4 @@ Books
    The Product is Docs <ProductIsDocs>
    Agile Documentation <AgileDocumentation>
    Modern Technical Writing <ModernTechnicalWriting>
+   Letting Go of the Words <LettingGoOfTheWords>
