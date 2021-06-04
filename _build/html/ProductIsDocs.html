@@ -89,8 +89,10 @@
 <li class="toctree-l1 current"><a class="reference internal" href="Books.html">Books</a><ul class="current">
 <li class="toctree-l2"><a class="reference internal" href="DocsLikeCode.html">Docs Like Code</a></li>
 <li class="toctree-l2"><a class="reference internal" href="ThinkingInSystems.html">Thinking in Systems</a></li>
-<li class="toctree-l2 current"><a class="current reference internal" href="#">The Product is Docs</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#measuring-success">Measuring Success</a></li>
+<li class="toctree-l2 current"><a class="current reference internal" href="#">The Product is Docs</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#measuring-success">Measuring Success</a></li>
+</ul>
+</li>
 <li class="toctree-l2"><a class="reference internal" href="AgileDocumentation.html">Agile Documentation</a></li>
 <li class="toctree-l2"><a class="reference internal" href="ModernTechnicalWriting.html">Modern Technical Writing</a></li>
 <li class="toctree-l2"><a class="reference internal" href="LettingGoOfTheWords.html">Letting Go of the Words</a></li>
@@ -206,21 +208,28 @@ SME - subject matter experts</p>
 <p>What is your documentation ethos?
 In this case, I would say that contributors should write the documentation in a way that would be clear to their group leader. Technical and in-house jargon is OK. I think of it as my place to figure out how to relate this to the more general audience. Also a main consideration, is how much time and effort it would take to write for a different audience.</p>
 <p><strong>Learning Objectives</strong></p>
-</div>
+<hr class="docutils" />
 <div class="section" id="measuring-success">
-<h1>Measuring Success<a class="headerlink" href="#measuring-success" title="Permalink to this headline">¶</a></h1>
+<h2>Measuring Success<a class="headerlink" href="#measuring-success" title="Permalink to this headline">¶</a></h2>
 <p>According to Douglas Hubbard:</p>
 <blockquote>
 <div><p>The purpose of measurement is to reduce uncertainty so that you can
 make a decision based on the results. Measurement is not about precise
-counting, instead is about supporting a business decision.</p>
+counting, instead it is about supporting a business decision.</p>
 <p>The “Rule of Five” states that there is a 93.75% chance that the
-median of population is between the smallest and largest values
+median of a population is between the smallest and largest values
 in any random sample of five from that population.</p>
 </div></blockquote>
-<p>For the record, I’m very skeptical about that statement. Since it would
-be so easy to pick a skewed subset, it seems in practice the key is
+<p>For the record, I’m skeptical about that statement since it would
+be so easy to pick a skewed subset. It seems in practice the key is
 how the five are selected.</p>
+<p>Looking at something quickly online, I update my skepticism. Based on,
+<a class="reference external" href="https://www.r-bloggers.com/2014/11/simulating-the-rule-of-five/">https://www.r-bloggers.com/2014/11/simulating-the-rule-of-five/</a>,
+their mathematical argument shows that the median is within
+the range of the 5 values samples. Consider the chance of picking
+above or below the median. What is the chance that you would
+pick above the median 5 times in a row?</p>
+</div>
 </div>
 
 

@@ -52,21 +52,31 @@ In this case, I would say that contributors should write the documentation in a 
 **Learning Objectives**
 
 
+--------
+
 Measuring Success
-=================
+-----------------
 
 According to Douglas Hubbard:
 
     The purpose of measurement is to reduce uncertainty so that you can
     make a decision based on the results. Measurement is not about precise 
-    counting, instead is about supporting a business decision.
+    counting, instead it is about supporting a business decision.
 
     The "Rule of Five" states that there is a 93.75% chance that the 
-    median of population is between the smallest and largest values 
+    median of a population is between the smallest and largest values 
     in any random sample of five from that population. 
 
-For the record, I'm very skeptical about that statement. Since it would
-be so easy to pick a skewed subset, it seems in practice the key is 
+For the record, I'm skeptical about that statement since it would
+be so easy to pick a skewed subset. It seems in practice the key is 
 how the five are selected.
+
+Looking at something quickly online, I update my skepticism. Based on,  
+https://www.r-bloggers.com/2014/11/simulating-the-rule-of-five/,
+their mathematical argument shows that the median is within
+the range of the 5 values samples. Consider the chance of picking
+above or below the median. What is the chance that you would
+pick above the median 5 times in a row?
+
 
 
