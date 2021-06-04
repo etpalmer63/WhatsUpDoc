@@ -17,4 +17,11 @@ They want to read only enough to meet their needs.
 Write so that busy people can grab the information they need
 and *go* on to whatever they need to do next.
 
+Web users skim and scan before they read. Use:
+
+- Headings to break up bodys of text
+- Active space for visual simplicity
+- Bullet point lists 
+- Tables and images
+
 
