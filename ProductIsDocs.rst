@@ -78,5 +78,25 @@ the range of the 5 values samples. Consider the chance of picking
 above or below the median. What is the chance that you would
 pick above the median 5 times in a row?
 
+The assumption is that the underlying distribution is normal. This
+would correspond with situations where there is one right answer,
+say a single consensus solution. 
+It would not make much sense for a situation in which respondents 
+clearly separate into groups, i.e. a bimodal or multimodal distribution.
 
+What Does Success Mean?
+-----------------------
 
+According to Mark Baker, author of *Every Page is Page One*: 
+
+    Mean time to productivity is the only true measurement of whether 
+    documentation is successful.
+
+The true purpose of your documentation is to educate your customer
+about how to use the product. The faster your documentation makes 
+yours customers productive, the more successful it is.
+
+The classical metric for the success of documentation is support
+case deflection. Unfortunately, support case deflection is a 
+difficult metric to capture because it involves measuring the
+absence of action. 
